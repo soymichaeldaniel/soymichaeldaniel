@@ -20,7 +20,7 @@ Browse [all my projects and experiments](https://github.com/DaniCodex?tab=reposi
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/danicodex.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danicodex/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@danicodex.dev)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/danicodex)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/soymichaelpc)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@soymichaeldaniel)
 
 ## Support my work
