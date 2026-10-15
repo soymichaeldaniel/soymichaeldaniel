@@ -2,6 +2,10 @@
 
 I'm a **Systems and Business Engineering student** with a passion for computer science. I enjoy building software, solving problems, and exploring new ideas.
 
+## My portfolio
+
+Explore [Michael OS — my interactive portfolio](https://michaeldanielos.vercel.app/) to discover my selected projects, programming courses, and professional profile.
+
 ## What you'll find here
 
 - Software projects I've built while learning and experimenting
